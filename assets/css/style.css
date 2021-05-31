@@ -1,0 +1,46 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.logo-white {
+    width: 5.375rem;
+    height: 1.563rem;   
+}
+
+h1{
+    font-weight: 500;
+}
+
+.card-text {
+    font-weight: 300;
+    color: #212529;
+}
+
+.card-subtext {
+    font-weight: 300;
+    font-size: small;
+    color: #707070;
+}
+
+.text-valor1 {
+    font-weight: 300;
+    font-size: medium;
+    color: #707070;
+}
+
+.text-valor2 {
+    font-weight: 300;
+    font-size: large;
+    color: #28A745;
+}
+
+.logo-footer{
+    width: 5.125rem;
+    height: 1.5rem;
+}
+
+.texto-footer{
+    font-weight: 300;
+    color: #707070;
+    opacity: 100%;
+}
